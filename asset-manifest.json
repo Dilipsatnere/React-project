@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98c8b441.css",
+    "main.js": "/static/js/main.c96dd459.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/airportinside.jpg": "/static/media/airportinside.27466ef799a12f50ccfe.jpg",
+    "static/media/booking.jpg": "/static/media/booking.7a2be1bca3692495a7d9.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/3.png": "/static/media/3.09e685bd74439ba7ee4b.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/11.jpg": "/static/media/11.09226e36e052f4194ce5.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/8.jpg": "/static/media/8.8d59f75d877aa3d37a23.jpg",
+    "static/media/10.jpeg": "/static/media/10.e08935a213c508f7ceef.jpeg",
+    "static/media/full_red_logo-removebg-preview.png": "/static/media/full_red_logo-removebg-preview.c027e0fc94f46fe19074.png",
+    "index.html": "/index.html",
+    "main.98c8b441.css.map": "/static/css/main.98c8b441.css.map",
+    "main.c96dd459.js.map": "/static/js/main.c96dd459.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c8b441.css",
+    "static/js/main.c96dd459.js"
+  ]
+}
